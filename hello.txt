@@ -8,3 +8,4 @@ gitdemo git_test
 git git git 这里是lk改变了同一行会产生冲突
 git git git 在同一行修改产生冲突
 git git git 解决了冲突
+修改了个人的username为lkbarry
