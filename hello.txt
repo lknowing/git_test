@@ -5,4 +5,4 @@ hello beijing!!!
 hello shanghai!!!
 hello shenzhen!!!
 gitdemo git_test
-git git git
+git git git 在同一行修改产生冲突
