@@ -1,6 +1,6 @@
 helloworld!!!
 hello git!!!
 hello github!!!
-hello beijing!!! master add oil dev1 go
+hello beijing!!! 
 hello shanghai!!!
 hello shenzhen!!!
