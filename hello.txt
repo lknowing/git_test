@@ -5,4 +5,4 @@ hello beijing!!!
 hello shanghai!!!
 hello shenzhen!!!
 gitdemo git_test
-git git git
+git git git 这里是lk改变了同一行会产生冲突
