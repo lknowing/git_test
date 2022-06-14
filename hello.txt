@@ -5,14 +5,4 @@ hello beijing!!!
 hello shanghai!!!
 hello shenzhen!!!
 gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
-gitdemo git_test
+git git git
